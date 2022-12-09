@@ -1,0 +1,4 @@
+2022/11/14-21:08:07.730 1530 Log #3: 3 ops saved to Table #4 OK
+2022/11/14-21:08:08.732 1530 Archiving C:\www\Sistema de Restaurante\whatsapp\tokens\session-02\Default\File System\Origins/000003.log: IO error: C:\www\Sistema de Restaurante\whatsapp\tokens\session-02\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2022/11/14-21:08:08.732 1530 Table #4: 3 entries OK
+2022/11/14-21:08:09.749 1530 Archiving C:\www\Sistema de Restaurante\whatsapp\tokens\session-02\Default\File System\Origins/MANIFEST-000001: IO error: C:\www\Sistema de Restaurante\whatsapp\tokens\session-02\Default\File System\Origins/MANIFEST-000001: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
